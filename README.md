@@ -11,4 +11,5 @@
  * React.js
  * Node.js
  * NoSQL <i>(MongoDB)</i>
+ * Consumo de APIs via requisição HTTP
  * --> <ins>Grande vontade de aprender cada vez mais</ins> <--
