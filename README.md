@@ -4,12 +4,4 @@
 
 ##
 
- Desenvolvo soluções web customizadas com foco em interfaces intuitivas e responsivas. Possuo **𝗺𝗮𝗶𝘀 𝗱𝗲 3 𝗮𝗻𝗼𝘀** de experiência em projetos freelance, sob demanda e de estudo, onde aprimorei minhas habilidades em **𝗥𝗲𝗮𝗰𝘁.𝗷𝘀**, **𝗛𝗧𝗠𝗟𝟱**, **𝗖𝗦𝗦𝟯** e **𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁**, além de:
-
- * Bootstrap
- * Git / GitHub *e todo o workflow de versionamento*
- * React.js
- * Node.js
- * NoSQL <i>(MongoDB)</i>
- * Consumo de APIs via requisição HTTP
- * --> <ins>Grande vontade de aprender cada vez mais</ins> <--
+Com mais de 3 anos de experiência, desenvolvo soluções web customizadas, priorizando interfaces de usuário intuitivas e responsivas. Minha expertise abrange o desenvolvimento front-end, com foco em React.js, HTML5, CSS3 e JavaScript. Tenho experiência prática na implementação de layouts responsivos com Bootstrap e Tailwind, no controle de versionamento utilizando Git e GitHub, e na aplicação de práticas de CI/CD. Além disso, possuo conhecimentos em Node.js para o desenvolvimento back-end, familiaridade com bancos de dados NoSQL como MongoDB, experiência no consumo e criação de APIs, e na implementação de testes unitários com Jest.
